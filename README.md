@@ -1,2 +1,2 @@
-# GNAR-ext-work-in-progress-
-This code is experimental
+# GNAR-work-in-progress
+This repo has experimental code on GNAR-edge and GNAR-ex models. Work in progress.
